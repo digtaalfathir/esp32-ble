@@ -1,0 +1,4 @@
+1. tambahkan untuk setting di htmlnya yang mengatur kira kira 
+	- Mungkin buat beberapa tampilan (optional)
+
+

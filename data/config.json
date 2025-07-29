@@ -1,0 +1,6 @@
+{
+  "ble_name": "BayMaxWatch",
+  "slideshow_interval": 2000,
+  "screen_timeout": 60000,
+  "time_format": "24h"
+}
