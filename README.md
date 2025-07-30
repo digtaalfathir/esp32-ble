@@ -105,12 +105,6 @@ This project is intended as a minimal base system. Future expansions may include
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** © 2025 YourName
-
----
-
 ## 🤝 Contributing
 
 Pull requests and feature suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
